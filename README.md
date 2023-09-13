@@ -20,7 +20,7 @@ ___
 - pip install beautifulsoup4
 - pip install lxml
 
-###### "Uncomment this section in the given code present after importing the libraries"
+##### "Uncomment below section of code present in line 7 and 8 to download punkt and stopwords"
 
-- nltk.download('punkt')
-- nltk.download('stopwords')
+  ![image](https://github.com/Mr-Vaibhav13/Text-Summarization/assets/84149610/ad717949-5f80-4762-ad05-1fc522b09d8c)
+
